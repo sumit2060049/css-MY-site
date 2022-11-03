@@ -1,0 +1,1 @@
+In this section we are going to apply our css intermediate skills on our website.
