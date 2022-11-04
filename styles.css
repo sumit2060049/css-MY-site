@@ -8,41 +8,77 @@
 .top-container{
     background-color: #E4F9F5;
     position: relative;
-    padding-top: 100px;
+    padding-top: 50px;
 }
 h1{
-    margin:0;
+    margin: 30px auto 0;;
     padding-top: 90px;
     font-family: 'Sacramento',cursive;
+    font-size: 5.62em;
+    color: #66BFBF;
+    line-height: 2;
 }
 h2{
     font-family: 'Montserrat',sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
 
 }
 h3{
     font-family: 'Montserrat',sans-serif;
+    color: #11999E;
 }
 .bottom-container{
-    background-color: red;
+    /* background-color: red;
     height: 200px;
-    width: 200px;
+    width: 200px; */
 }
 .middle-container{
-    background-color: blue;
+    /* background-color: blue;
     height: 200px;
-    width: 200px;
+    width: 200px; */
 }
 .hero{
     text-decoration: underline;
 }
 .bottom-cloud{
-    position: absolute;
+     position: absolute;
     left: 350px;
-    bottom: 300px;
+    bottom: 300px; 
 }
 .top-cloud{
     position: absolute;
-    right:380px;
-    top:50px;
-    padding-top: 80px;;
+    right:300px;
+    top:30px;
+    padding-top: 50px;;
 }
+.myimage{
+    border-radius: 50%;
+}
+.skill-img{
+     border-radius: 50%; 
+     width: 25%;
+    float: left;
+    margin-right: 30px;
+    height: 130px;
+}
+.skill2-img{
+     border-radius: 50%; 
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    height: 130px;
+}
+.footer-link{
+    color: #11999E;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+/* .skill-desc{
+    clear: left;
+} */
